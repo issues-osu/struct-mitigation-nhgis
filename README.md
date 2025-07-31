@@ -119,4 +119,4 @@ This repository is shared under a [Creative Commons BY-NC-SA 4.0 License](https:
 
 ---
 
-For questions or contributions, open an issue or contact the maintainer.
+For questions or contributions, open an issue or contact issues-osu.gmail.com or barboza-salerno.1@osu.edu.
