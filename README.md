@@ -1,5 +1,9 @@
 # Social Geography of Historic Data for Structural Mitigation
-The code in this repository demonstrates how to automatically download and wrangle historic NHGIS data for analysis and mapping. 
+The code in this repository demonstrates how to automatically download and wrangle Integrated Public Use Microdata Series (IPUMS) National Historic Geographic Information Systems (NHGIS) data for analysis and mapping. According to their [website](https://www.ipums.org/projects/ipums-nhgis), these data can be used to download:
+
+- Boundary files for states and counties back to 1790; for census tracts back to 1910; for census blocks, places, and county subdivisions back to 1980; and for all other standard census units back to 1990.
+- Summary tables from all decennial censuses, the American Community Survey, agricultural and manufacturing censuses, and County Business Patterns.
+- Time series tables and geographic crosswalks that support studies of change across time with standardized geography and categories.
 
 The code documents a complete R-based workflow for accessing, processing, and visualizing 1990 decennial census data from NHGIS. The goal is to reconstruct neighborhood-level social and economic conditions relevant to structural mitigation, legal advocacy, and environmental justice.
 ![Structural Mitigation Summary - 1990 Hamilton County](struct-mit-1990.png)
